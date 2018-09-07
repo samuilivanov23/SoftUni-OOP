@@ -1,0 +1,11 @@
+D:\SoftUni\OOP_Advanced\ConsoleBuffer\bin\Debug\netcoreapp2.0\ConsoleBuffer.deps.json
+D:\SoftUni\OOP_Advanced\ConsoleBuffer\bin\Debug\netcoreapp2.0\ConsoleBuffer.runtimeconfig.json
+D:\SoftUni\OOP_Advanced\ConsoleBuffer\bin\Debug\netcoreapp2.0\ConsoleBuffer.runtimeconfig.dev.json
+D:\SoftUni\OOP_Advanced\ConsoleBuffer\bin\Debug\netcoreapp2.0\ConsoleBuffer.dll
+D:\SoftUni\OOP_Advanced\ConsoleBuffer\bin\Debug\netcoreapp2.0\ConsoleBuffer.pdb
+D:\SoftUni\OOP_Advanced\ConsoleBuffer\obj\Debug\netcoreapp2.0\ConsoleBuffer.csprojAssemblyReference.cache
+D:\SoftUni\OOP_Advanced\ConsoleBuffer\obj\Debug\netcoreapp2.0\ConsoleBuffer.csproj.CoreCompileInputs.cache
+D:\SoftUni\OOP_Advanced\ConsoleBuffer\obj\Debug\netcoreapp2.0\ConsoleBuffer.AssemblyInfoInputs.cache
+D:\SoftUni\OOP_Advanced\ConsoleBuffer\obj\Debug\netcoreapp2.0\ConsoleBuffer.AssemblyInfo.cs
+D:\SoftUni\OOP_Advanced\ConsoleBuffer\obj\Debug\netcoreapp2.0\ConsoleBuffer.dll
+D:\SoftUni\OOP_Advanced\ConsoleBuffer\obj\Debug\netcoreapp2.0\ConsoleBuffer.pdb
